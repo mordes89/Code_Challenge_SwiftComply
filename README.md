@@ -2,7 +2,8 @@
 
 ## How to run the program
  - Open a console and navigate to the local directory of /SwiftComply where the file is located
- - Run the following command: 'npm install'
+ - Run the following command: 'npm install xml2csv --save'
+ - Notice that newCSV.csv is blank at this point
  - Run: 'node index.js'
  - The converted info will now be written in the file named: newCSV.csv
 
